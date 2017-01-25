@@ -64,3 +64,9 @@ On the UIEffectDesigner page you can also download sample effects:
 ![image](http://www.touch-code-magazine.com/_uieffectdesigner/samples/soda.jpg?9d7bd4)
 
 Go to [UIEffectDesigner](http://www.touch-code-magazine.com/uieffectdesigner/) page with sample effect files for download.
+
+
+Bug fix
+====
+
+Color problem on sscanf: Now working on ios 10.0 and grater
