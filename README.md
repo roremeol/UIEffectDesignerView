@@ -69,4 +69,4 @@ Go to [UIEffectDesigner](http://www.touch-code-magazine.com/uieffectdesigner/) p
 Bug fix
 ====
 
-Color problem on sscanf: Now working on ios 10.0 and grater
+Color problem: Now working on ios 10.0 and later
